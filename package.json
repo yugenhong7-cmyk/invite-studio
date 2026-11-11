@@ -1,0 +1,38 @@
+{
+  "name": "invite-studio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Invite Studio - AI 智能宴会请帖制作平台",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "start": "npm run build && node server.mjs",
+    "serve": "node server.mjs"
+  },
+  "dependencies": {
+    "@tencent-ai/workbuddy-cloud-sdk": "dev",
+    "clsx": "^2.1.1",
+    "fabric": "^6.5.4",
+    "fflate": "^0.8.3",
+    "idb-keyval": "^6.2.1",
+    "pdfjs-dist": "^4.7.76",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

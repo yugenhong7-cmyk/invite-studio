@@ -1,0 +1,125 @@
+{
+ "results": [
+  {
+   "name": "编辑器动态 Tab 打开",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "7 套动画预设",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "展示形式三种模式",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "开场封面设置",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "动态背景设置",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "背景音乐模块",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "内容分区开关",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "套用中式典雅预设",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "元素动画面板存在",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "预览弹窗打开（动态版）",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "开场封面渲染",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "封面提示语",
+   "ok": true,
+   "detail": "轻启请柬"
+  },
+  {
+   "name": "封面开启后进入正文",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "倒计时模块",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "音乐播放控件",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "宾客回执表单",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "结束/分享区域",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "移动端动态面板",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "移动端底部工具坞",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "画布自适应屏宽",
+   "ok": true,
+   "detail": "351"
+  },
+  {
+   "name": "移动端预览封面",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "移动端正文渲染",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "reduced-motion 保留静态封面",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "reduced-motion 点击后正文可读",
+   "ok": true,
+   "detail": ""
+  }
+ ],
+ "errors": []
+}

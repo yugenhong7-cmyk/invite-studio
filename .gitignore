@@ -1,0 +1,18 @@
+# 依赖与构建产物
+node_modules/
+dist/
+tsconfig.tsbuildinfo
+
+# WorkBuddy 平台内部数据（勿删本地，但不入库）
+.workbuddy/
+.wbapp_*.genie
+
+# 测试截图与报告产物
+tests/shots/
+tests/report.json
+tests/*-report.json
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.log
